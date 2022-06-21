@@ -2,9 +2,7 @@
 
 ### Hi there, I'm Melih.👋
 
-## Flutter Developer
-
-<font color = "pink"> Coffee coffee is how '< code />' </font> 
+## Flutter Developer 
 
 ### Reach out to me
 
@@ -12,6 +10,7 @@
 
 [<img width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align = "left" />][linkedin]
 
+<br />
 <br />
 <br />
 
