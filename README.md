@@ -26,6 +26,9 @@
 <br />
 <br />
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=dracula)](https://git.io/streak-stats)
+
+<br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melihgundogan&theme=radical)
 
