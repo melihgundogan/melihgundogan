@@ -2,28 +2,20 @@
 
 ### Hi there, I'm Melih.👋
 
-## Flutter Developer 
+## Software Developer 
 
 ### Reach out to me
 
-[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align = "left" />][twitter]
+[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="left" style="background-color:white;" />][twitter]
 
-[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align = "left" />][linkedin]
+[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" style="background-color:white;" />][linkedin]
 
 <br />
 <br />
-<br />
-
 
 ### Tech I use
 
-<img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" widht = "25" height = "25" />
-<img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" widht = "25" height = "25" />
-<img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" widht = "25" height = "25" />
-<img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" widht = "25" height = "25" />
-<img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" widht = "25" height = "25" />
-
-<br />
+<img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" widht = "25" height = "25" /> <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" widht = "25" height = "25" /> <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" widht = "25" height = "25" /> <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" widht = "25" height = "25" /> <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" widht = "25" height = "25" />
 <br />
 <br />
 
@@ -38,23 +30,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melihgundogan&theme=radical)
 
-
-
-
 [twitter]: https://twitter.com/m_melihdev
 [linkedin]: https://www.linkedin.com/in/muhammed-melih-gündoğan-39a35918b/ 
 
-<!--
-**melihgundogan/melihgundogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
