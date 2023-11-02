@@ -6,9 +6,7 @@
 
 ### Reach out to me
 
-[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="left" style="background-color:white;" />][twitter]
-
-[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" style="background-color:white;" />][linkedin]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammed-melih-gundogan/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@muhammedmelihgundogan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/m_melihdev)
 
 <br />
 <br />
